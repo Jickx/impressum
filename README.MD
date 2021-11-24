@@ -1,0 +1,1 @@
+The script takes a list of german websites from url_list.csv, looks for the "Impressum" page on each of them, and scrapes emails from it. Then create a new CSV file with the result.
